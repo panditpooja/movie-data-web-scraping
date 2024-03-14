@@ -19,7 +19,7 @@ The project is implemented using Jupyter Notebook, Google Colab, or Microsoft Vi
 - Data Extraction: We access and parse relevant information from TMDB website using web scraping techniques.
 - Data Transformation: Extracted data is transformed into a tabular format for further analysis.
 - Analysis: The tabular data enables analysis of various aspects such as movie genres, cast members, and user ratings.
-- 
+
 ### Prerequisites
 - Tools:
   Jupyter Notebook, Google Colab, or Microsoft Visual Studio IDE
