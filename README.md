@@ -24,12 +24,9 @@ The project is implemented using Jupyter Notebook, Google Colab, or Microsoft Vi
 - Tools:
   Jupyter Notebook, Google Colab, or Microsoft Visual Studio IDE
 - Languages:
-  Python
-  HTML
+  Python, HTML5
 - Libraries:
-  requests
-  BeautifulSoup
-  pandas
+  requests, BeautifulSoup, pandas
   
 ### Getting Started
 Clone this repository to your local machine.
