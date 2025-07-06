@@ -1,6 +1,6 @@
 # 🎬 Movie Data Web Scraping Project
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange)](https://jupyter.org/)
 [![CSV Data](https://img.shields.io/badge/Data-CSV-brightgreen)]()
 
