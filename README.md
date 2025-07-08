@@ -69,7 +69,8 @@ cd movie-data-web-scraping
 
 ---
 
-📝 Conclusion
+## 📝 Conclusion
+
 By leveraging web scraping, this project provides a scalable solution for movie data collection from TMDB. The resulting dataset supports advanced analysis and insights into the film industry.
 
 ---
